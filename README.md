@@ -11,8 +11,9 @@
 
 ### Table of contents
 - [Summary](#summary)
+- [Current](#current)
 - [Experience](#experience)
-- [Work Experience](#work-experience)
+- [Work History](#work-history)
 - [Education](#education)
 - [Cover Letters](#cover-letters)
 
@@ -31,6 +32,19 @@
 - Proven leader and project manager; drive system architecture decisions and lead projects from concept through the release process.
 - Innovator of next-generation solutions, systems and applications giving companies a competitive edge and producing outstanding results for customers.
 - Designed and developed an auto tweeting utility that gave exposure to buyers and sellers in social media.
+
+### <a name="Current">What I'm doing now</a>
+- Rewriting a legacy PowerBuilder application. 
+  - Utilizes a C# and Entity Framework backend to create a robust API that leverages our existing database.
+  - A modern standalone frontend application built with Angular. 
+
+- Technical lead on suite of applications, have moved into an architecture/advisory role for these where I empower the development team to meet business needs.
+  - Led initiative to transfer suite of applications from previous company in a merger.
+
+- Mentoring three junior developers.
+
+### <a name="Looking-For">What I'm looking for</a>
+- 
 
 ### <a name="Experience">Experience</a>
 
@@ -95,7 +109,7 @@
 - Built a high-performance data integration tool for XXX, a leading media group; migrated its contents in minutes.
 - Built a web-based application for XXX to enable central management via the portal. 
 
-#### Work Experience
+#### <a name="Work-History">Work History</a>
 - Senior Application Analyst & Developer
   - Great American Insurance Group, Cincinnati, OH
   - May 2013 - June 2017 and June 2018 - Present
@@ -105,24 +119,24 @@
   - July 2017 - June 2018
 
 - Logistics Account Executive
-  - July 2012 - March 2013
   - Total Quality Logistics, Cincinnati, OH
+  - July 2012 - March 2013
 
 - Undergraduate Research Assistant
-  - June 2009 - November 2009
   - Wright State University, Dayton, OH
+  - June 2009 - November 2009
 
 - Student Assistant, Office of the President
-  - March 2007 - June 2009
   - Wright State University
+  - March 2007 - June 2009
 
 - Manager
-  - March 2005 - February 2007
   - Snappy Tomato Pizza, Harrison, OH and Bright, IN
+  - March 2005 - February 2007
 
-#### Education
+### <a name="Education">Education</a>
 - Bachelor of Science in Biological Sciences
--   Wright State University, Dayton, OH
+  - Wright State University, Dayton, OH
 
 #### Cover Letters
 
