@@ -12,7 +12,8 @@
 ### Table of contents
 - [Summary](#summary)
 - [Experience](#experience)
-- [Projects](#projects)
+- [Work Experience](#work-experience)
+- [Education](#education)
 - [Cover Letters](#cover-letters)
 
 
@@ -123,7 +124,7 @@
 - Bachelor of Science in Biological Sciences
 -   Wright State University, Dayton, OH
 
-#### Cover Letter
+#### Cover Letters
 
 > Dear XXX
 >
