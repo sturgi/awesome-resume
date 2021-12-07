@@ -96,32 +96,32 @@
 
 #### Work Experience
 - Senior Application Analyst & Developer
-- Great American Insurance Group, Cincinnati, OH
-- May 2013 - June 2017 and June 2018 - Present
+  - Great American Insurance Group, Cincinnati, OH
+  - May 2013 - June 2017 and June 2018 - Present
 
 - Software Developer
-- Tulane University Biodiversity Research Institute, Belle Chasse, LA
-- July 2017 - June 2018
+  - Tulane University Biodiversity Research Institute, Belle Chasse, LA
+  - July 2017 - June 2018
 
 - Logistics Account Executive
-- July 2012 - March 2013
-- Total Quality Logistics, Cincinnati, OH
+  - July 2012 - March 2013
+  - Total Quality Logistics, Cincinnati, OH
 
 - Undergraduate Research Assistant
-- June 2009 - November 2009
-- Wright State University, Dayton, OH
+  - June 2009 - November 2009
+  - Wright State University, Dayton, OH
 
 - Student Assistant, Office of the President
-- March 2007 - June 2009
-- Wright State University
+  - March 2007 - June 2009
+  - Wright State University
 
 - Manager
-- March 2005 - February 2007
-- Snappy Tomato Pizza, Harrison, OH and Bright, IN
+  - March 2005 - February 2007
+  - Snappy Tomato Pizza, Harrison, OH and Bright, IN
 
 #### Education
 - Bachelor of Science in Biological Sciences
-- Wright State University, Dayton, OH
+-   Wright State University, Dayton, OH
 
 #### Cover Letter
 
