@@ -33,7 +33,8 @@
 - Innovator of next-generation solutions, systems and applications giving companies a competitive edge and producing outstanding results for customers.
 - Designed and developed an auto tweeting utility that gave exposure to buyers and sellers in social media.
 
-### <a name="Current">What I'm doing now</a>
+### <a name="Current">Current</a>
+### What I'm doing now
 - Rewriting a legacy PowerBuilder application. 
   - Utilizes a C# and Entity Framework backend to create a robust API that leverages our existing database.
   - A modern standalone frontend application built with Angular. 
@@ -43,8 +44,8 @@
 
 - Mentoring three junior developers.
 
-### <a name="Looking-For">What I'm looking for</a>
-- 
+### What I'm looking for
+- Looking for a position where I can gain skills and experience in a number of roles
 
 ### <a name="Experience">Experience</a>
 
